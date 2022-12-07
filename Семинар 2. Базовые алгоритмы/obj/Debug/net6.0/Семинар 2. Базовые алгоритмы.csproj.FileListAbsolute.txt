@@ -1,0 +1,15 @@
+C:\Users\Filippov\Documents\Учеба Дина\C#\Семинары\Семинар 2. Базовые алгоритмы\bin\Debug\net6.0\Семинар 2. Базовые алгоритмы.exe
+C:\Users\Filippov\Documents\Учеба Дина\C#\Семинары\Семинар 2. Базовые алгоритмы\bin\Debug\net6.0\Семинар 2. Базовые алгоритмы.deps.json
+C:\Users\Filippov\Documents\Учеба Дина\C#\Семинары\Семинар 2. Базовые алгоритмы\bin\Debug\net6.0\Семинар 2. Базовые алгоритмы.runtimeconfig.json
+C:\Users\Filippov\Documents\Учеба Дина\C#\Семинары\Семинар 2. Базовые алгоритмы\bin\Debug\net6.0\Семинар 2. Базовые алгоритмы.dll
+C:\Users\Filippov\Documents\Учеба Дина\C#\Семинары\Семинар 2. Базовые алгоритмы\bin\Debug\net6.0\Семинар 2. Базовые алгоритмы.pdb
+C:\Users\Filippov\Documents\Учеба Дина\C#\Семинары\Семинар 2. Базовые алгоритмы\obj\Debug\net6.0\Семинар 2. Базовые алгоритмы.csproj.AssemblyReference.cache
+C:\Users\Filippov\Documents\Учеба Дина\C#\Семинары\Семинар 2. Базовые алгоритмы\obj\Debug\net6.0\Семинар 2. Базовые алгоритмы.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Filippov\Documents\Учеба Дина\C#\Семинары\Семинар 2. Базовые алгоритмы\obj\Debug\net6.0\Семинар 2. Базовые алгоритмы.AssemblyInfoInputs.cache
+C:\Users\Filippov\Documents\Учеба Дина\C#\Семинары\Семинар 2. Базовые алгоритмы\obj\Debug\net6.0\Семинар 2. Базовые алгоритмы.AssemblyInfo.cs
+C:\Users\Filippov\Documents\Учеба Дина\C#\Семинары\Семинар 2. Базовые алгоритмы\obj\Debug\net6.0\Семинар 2. Базовые алгоритмы.csproj.CoreCompileInputs.cache
+C:\Users\Filippov\Documents\Учеба Дина\C#\Семинары\Семинар 2. Базовые алгоритмы\obj\Debug\net6.0\Семинар 2. Базовые алгоритмы.dll
+C:\Users\Filippov\Documents\Учеба Дина\C#\Семинары\Семинар 2. Базовые алгоритмы\obj\Debug\net6.0\refint\Семинар 2. Базовые алгоритмы.dll
+C:\Users\Filippov\Documents\Учеба Дина\C#\Семинары\Семинар 2. Базовые алгоритмы\obj\Debug\net6.0\Семинар 2. Базовые алгоритмы.pdb
+C:\Users\Filippov\Documents\Учеба Дина\C#\Семинары\Семинар 2. Базовые алгоритмы\obj\Debug\net6.0\Семинар 2. Базовые алгоритмы.genruntimeconfig.cache
+C:\Users\Filippov\Documents\Учеба Дина\C#\Семинары\Семинар 2. Базовые алгоритмы\obj\Debug\net6.0\ref\Семинар 2. Базовые алгоритмы.dll
